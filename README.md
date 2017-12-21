@@ -2,8 +2,8 @@
 Download TV episodes from yesmovies.to
 
 # Installation
-    git clone https://github.com/flomk/YesMoviesDownloader $HOME/.memeinsider-dl
-    echo PATH="$HOME/.memeinsider-dl:${PATH}" >> ~/.zshrc
+    git clone https://github.com/flomk/YesMoviesDownloader $HOME/.YesMoviesDownloader
+    echo PATH="$HOME/.YesMoviesDownloader:${PATH}" >> ~/.zshrc
     source ~/.zshrc
 # Usage
     YesMoviesDownloader -h
